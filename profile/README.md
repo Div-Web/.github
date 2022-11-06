@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 
 Information About Div Web
 
@@ -21,5 +21,4 @@ https://www.linkedin.com/company/84369670
 https://discord.gg/eK5YTxsUmY 
 https://www.instagram.com/div_web/ 
 https://twitter.com/DivWeb_Asso 
-https://www.facebook.com/DivWebAssociationbasic-writing-and-formatting-syntax)
--->
+https://www.facebook.com/DivWebAssociation
